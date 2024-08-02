@@ -1,0 +1,14 @@
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\bin\Debug\net8.0\ServidorHTTPSSimples.exe
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\bin\Debug\net8.0\ServidorHTTPSSimples.deps.json
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\bin\Debug\net8.0\ServidorHTTPSSimples.runtimeconfig.json
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\bin\Debug\net8.0\ServidorHTTPSSimples.dll
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\bin\Debug\net8.0\ServidorHTTPSSimples.pdb
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.AssemblyInfoInputs.cache
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.AssemblyInfo.cs
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.csproj.CoreCompileInputs.cache
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.dll
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\refint\ServidorHTTPSSimples.dll
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.pdb
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ServidorHTTPSSimples.genruntimeconfig.cache
+c:\Users\Yukio\Documents\ServidorHTTPSSimples\obj\Debug\net8.0\ref\ServidorHTTPSSimples.dll
